@@ -22,3 +22,9 @@ http://winaero.com/blog/disable-office-2013-sign-in-with-microsoft-account/
 ## pdq deploy
 
 http://www.adminarsenal.com/pdq-deploy/
+
+---
+
+## stop edge from hijacking pdf and html associations
+
+http://www.winhelponline.com/blog/edge-hijack-pdf-htm-associations/
